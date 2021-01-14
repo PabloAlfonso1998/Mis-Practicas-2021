@@ -1,0 +1,21 @@
+body
+{
+  font-family: Arial;
+  font-size: 16px;
+  color: #414141;
+}
+
+.container
+{
+  display: grid;
+  grid-grap: 5;
+  heigth: 100vh;
+  grid-template-areas: "header header"
+                       "contenido contenido"
+                       "fotos fotos"
+                       "footer footer"
+
+.item
+{
+  
+}
